@@ -1,4 +1,3 @@
-# Pokedex-iOS
-Pokemon app, gets data from PokeAPI in JSON format, enables saving, searching and deleting.
-
-<img src="https://raw.githubusercontent.com/papas000/Pokedex-iOS/master/pokedex2.gif">
+# Hogwarts-iOS
+Combined data from https://potterapi.com and https://hp-api.herokuapp.com/.
+Provides a list of characters with photo and ability to farovite, a sorting hat view and a list of spells.
