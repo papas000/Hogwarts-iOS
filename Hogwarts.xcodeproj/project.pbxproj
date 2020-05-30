@@ -31,7 +31,7 @@
 		1C87B3AF245DEA7B00F995CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C87B3B2245DEA7B00F995CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C87B3B4245DEA7B00F995CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1C8E4EAC247D525800DD999F /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Character.swift; path = ../../../Desktop/Character.swift; sourceTree = "<group>"; };
+		1C8E4EAC247D525800DD999F /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		1C9081B02460881D00BD6E56 /* HatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HatViewController.swift; sourceTree = "<group>"; };
 		1CCC8061245F38F6008E2FCB /* CharacterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
