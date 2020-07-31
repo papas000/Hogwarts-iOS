@@ -37,7 +37,13 @@ class ViewController: UITableViewController, UISearchBarDelegate {
                     print("HTTP Request Status Code: \(httpResponse.statusCode)")
                 }          //status code check
                 
-                let characterList = try JSONDecoder().decode([Character].self, from: data)
+                var characterList = try JSONDecoder().decode([Character].self, from: data)
+                
+//                let path = Bundle.main.path(forResource: "gryffindor", ofType: "jpeg", inDirectory: "Assets.xcassets")
+//                let urll = URL(fileURLWithPath: path!)
+//                print(urll)
+//
+//                characterList.append(Character(name:"Emma", image:"gryffindor"))
                 self.characters = characterList
                 self.charactersBackup = characterList
                 
